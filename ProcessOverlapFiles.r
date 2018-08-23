@@ -1,3 +1,6 @@
+##NG Swenson (swenson@umd.edu)
+##21 August 2018
+
 #setwd("/Users/ngswenson/tmp")
 myData = read.csv("amacayacu_allometry.csv")
 #setwd("/Users/ngswenson/tmp/output_amacayacu")
