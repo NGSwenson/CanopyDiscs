@@ -1,3 +1,6 @@
+##NG Swenson (swenson@umd.edu)
+##15 August 2018
+
 #setwd("/home/nswenson/jenny.overlap")
 #install.packages(c("spatstat","PBSmapping","sp"))
 require(spatstat)
