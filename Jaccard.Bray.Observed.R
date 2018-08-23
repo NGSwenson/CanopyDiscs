@@ -1,3 +1,6 @@
+##NG Swenson (swenson@umd.edu)
+##22 August 2018
+
 setwd("/Users/nateswenson/data/ctfs/jenny.overlap/output")
 library(picante)
 
