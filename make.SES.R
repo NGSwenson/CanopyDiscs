@@ -1,3 +1,6 @@
+##NG Swenson (swenson@umd.edu)
+##26 August 2018
+
 #setwd("/Users/ngswenson/data/jenny.overlap/output")
 
 obs = read.csv("palanan.jac.hetero.csv",header=T,row.names=1)
