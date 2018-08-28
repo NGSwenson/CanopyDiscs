@@ -1,5 +1,5 @@
 # CanopyDiscs
-A collaborative project with Jenny Zambrano and Bill Fagan
+A collaborative project with Jenny Zambrano and Bill Fagan. The code contained here is preliminary and not carefully checked. Use with caution. 
 
 # Order of analyses
 1) canopy_overlap_plot.R code: to calculate crown overlaps
